@@ -1,0 +1,17 @@
+.DS_Store
+.project
+.classpath
+.settings/
+target/
+build/
+bin/
+tags
+logs/
+assembly/
+conf/
+*.log
+webRoot/
+jetty.pid
+.checkstyle
+.fbIncludeFilterFile
+coverage-local.sh
