@@ -64,7 +64,6 @@
 		<dependency>
 			<groupId>org.nanoframework</groupId>
 			<artifactId>nano-commons</artifactId>
-            <version>${nano-version}</version>
 		</dependency>
 	</dependencies>
 </project>

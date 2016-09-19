@@ -73,6 +73,12 @@
 
 	<dependencyManagement>
 		<dependencies>
+            <dependency>
+                <groupId>org.nanoframework</groupId>
+                <artifactId>nano-commons</artifactId>
+                <version>${nano-version}</version>
+            </dependency>
+        
 			<!-- Nano JMX Modules -->
             <dependency>
                 <groupId>org.nanoframework</groupId>
