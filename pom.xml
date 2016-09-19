@@ -44,7 +44,17 @@
 
 	<dependencyManagement>
 		<dependencies>
-			
+			<!-- Nano JMX Modules -->
+            <dependency>
+                <groupId>org.nanoframework</groupId>
+                <artifactId>nano-jmx-client</artifactId>
+                <version>${project.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.nanoframework</groupId>
+                <artifactId>nano-jmx-agent</artifactId>
+                <version>${project.version}</version>
+            </dependency>
 		</dependencies>
 	</dependencyManagement>
 </project>
